@@ -1,8 +1,6 @@
 ### Hi there 👋
  I'm a data scientist based in Lagos Nigeria. I’m interested in harnessing big data to impact the social sector and also passionate about Education
 
-<!--
-**LotaIbe/LotaIbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,5 +16,5 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: ...
 
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I love dogs and cats equally
+
