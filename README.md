@@ -23,14 +23,17 @@ Here are some ideas to get you started:
 
 </details>
 
-<details open>
+<details open>  
  <summary> 😇 <b>My Github Stats</b>: </summary>
+ 
+<br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LotaIbe&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LotaIbe&hide=TeX&layout=compact)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=LotaIbe&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LotaIbe&hide=css,html,fortran&theme=tokyonight">
+</p>
 
 
 </details>
 
 
--->
