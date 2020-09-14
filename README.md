@@ -1,5 +1,5 @@
 ### Hi, I'm Lota 👋
- I'm a data scientist based in Lagos, Nigeria. I’m interested in using big data to impact the social sector and also passionate about Education
+ I'm a data scientist based in Lagos, Nigeria. I’m interested in harnessing big data for social good and also passionate about Education
 
 <!--- 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning KubeFlow and ML Workflows
