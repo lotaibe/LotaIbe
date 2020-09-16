@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on Social Impact/Tech for Good projects
 - 💬 Ask me about anything related to Python, Data Science and STEM Education
 - 😄 My Pronouns: He/Him
-- ⚡ Fun fact: I love dogs and cats equally
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
