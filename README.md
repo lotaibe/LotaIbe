@@ -19,6 +19,7 @@
 
 </details>
 
+<!--
 <details open>  
  <summary> 😇 <b>My Github Stats</b>: </summary>
  
@@ -28,7 +29,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=LotaIbe&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LotaIbe&hide=css,html,fortran&theme=tokyonight">
 </p>
-
+->
 
 </details>
 
