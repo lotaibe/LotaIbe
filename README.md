@@ -3,12 +3,12 @@
 
 <!--- 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning KubeFlow and ML Workflows
-- 👯 I’m looking to collaborate on Social Impact/Tech for Good projects
+- 👯 I’m looking to collaborate on Social Impact/Tech for Good/EdTech projects
 - 💬 Ask me about anything related to Python, Data Science and STEM Education
 - 😄 My Pronouns: He/Him
 
 <details open>
-<summary>🤝 <b>To connect with me</b></summary>
+<summary>🤝 <b>Connect with me</b></summary>
 
 <p align = "center">
  
