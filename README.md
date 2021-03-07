@@ -1,8 +1,8 @@
 ### Hi, I'm Lota 👋
- I'm a data scientist based in Lagos, Nigeria. I’m interested in harnessing big data for social good and also passionate about Education
+ I'm am AI graduate student in Bournemouth, U.k. I’m interested in harnessing big data for social good and also passionate about Education.
 
-<!--- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning KubeFlow and ML Workflows
+- 🔭 I’m currently working on intelligent algorithms at Bournemouth University
+- 🌱 I’m currently learning ML Workflows
 - 👯 I’m looking to collaborate on Social Impact/Tech for Good/EdTech projects
 - 💬 Ask me about anything related to Python, Data Science and STEM Education
 - 😄 My Pronouns: He/Him
