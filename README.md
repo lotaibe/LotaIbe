@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on intelligent algorithms at Bournemouth University
 - 🌱 I’m currently learning ML Workflows
-- 👯 I’m looking to collaborate on Social Impact/Tech for Good/EdTech projects
+- 👯 I’m looking to collaborate on Social Impact/FinTech projects
 - 💬 Ask me about anything about STEM Education and making a career switch to Tech.
 - 😄 My Pronouns: He/Him
 
