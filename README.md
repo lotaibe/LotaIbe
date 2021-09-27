@@ -1,5 +1,5 @@
 ### Hi, I'm Lota 👋
- I'm am AI graduate student in Bournemouth, U.k. I’m interested in harnessing big data for social good and also passionate about Education.
+ I'm am AI graduate student in Bournemouth, U.k. I’m interested in harnessing big data for finance and also passionate about Education.
 
 - 🔭 I’m currently working on intelligent algorithms at Bournemouth University
 - 🌱 I’m currently learning ML Workflows
